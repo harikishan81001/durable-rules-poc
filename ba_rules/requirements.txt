@@ -1,0 +1,2 @@
+durable-rules==2.0.28
+ipython==7.17.0
